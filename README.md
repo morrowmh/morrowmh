@@ -8,4 +8,4 @@ Ph.D. in Mathematics from the University of Kentucky. See my homepage at https:/
 ## Current Projects
 
 - [FIResolutions](https://github.com/morrowmh/FIResolutions), a Macaulay2 package for computing free FI-resolutions over Noetherian polynomial FI-algebras.
-- [Nametags](https://github.com/morrowmh/Nametags), a Discord bot written with Python for managing user introductions.
+- [Nametags](https://github.com/morrowmh/Nametags), a Discord bot written in Python for managing user introductions.
