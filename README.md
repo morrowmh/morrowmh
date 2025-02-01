@@ -1,5 +1,5 @@
 ## About Me
-Ph.D. in Mathematics from the University of Kentucky. See my homepage at https://michaelmorrow.me and my LinkedIn at [in/michaelhmorrow98](https://www.linkedin.com/in/michaelhmorrow98/).
+Solutions Engineer at [Zeta Global](https://zetaglobal.com). Ph.D. in Mathematics from the University of Kentucky. See my homepage at https://michaelmorrow.me and my LinkedIn at [in/michaelhmorrow98](https://www.linkedin.com/in/michaelhmorrow98/).
 
 ## Completed Projects
 
